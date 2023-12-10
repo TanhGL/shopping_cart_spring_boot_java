@@ -1,10 +1,4 @@
-# Online Shopping Cart (E-Commerce Website)
 
-### About
-**https://github.com/TanhGL/shopping_cart_spring_boot_java/raw/main/doan-hoi.rar**
-
-
-## Highlights :--
 
 ### The users will get a mail to their registered mail Id during:-
 - New User Registration
@@ -86,7 +80,7 @@ Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin
 
 Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
 
-## FAQ
+
 **Question:1** Unable to Connect to Database?
 
 **Answer:** Please check you have installed the mysql correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
@@ -94,11 +88,12 @@ Step 11: The default Username And Password For User Is "guest@gmail.com" And "gu
 
 Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
 
-#### Some Screenshots for the project:
 
 
+# backup
 
-#### "Suggestions and project improvement ideas are welcomed!"
+874bf-805c1 3fdb2-83c9d 8c1a4-10a1f 28cb2-4e343 c493f-888eb 0ba9a-be07b da47f-30c73 23fa5-33b49 98a22-ad02e a23a1-31e09 bc601-e4835 c3082-5e88e 6f6f5-c9e32 9a0a9-ed88f da136-ec76f 76c48-cfcfb
+
 
 
 
